@@ -17,6 +17,8 @@ for ch in inp:
         output = False
 if len(stack)==0:
     output = True
-# Your code - end
+
 print (output)
+
+# Your code - end
 

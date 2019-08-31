@@ -5,6 +5,6 @@ output=[]
 output.extend(l1)
 output.extend(l2)
 output.sort()
+print (output)
 
 # Your code - end
-print (output)

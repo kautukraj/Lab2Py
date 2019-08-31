@@ -16,7 +16,7 @@ for i in range(len):
     else:
         output.append(temp[k])
         k+=1
-        
+print (output)        
 # Your code - end
-print (output)
+
 
